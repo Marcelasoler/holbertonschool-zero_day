@@ -1,4 +1,4 @@
-# Este es mi primer proyecto para Holberton School
-*Estoy utilizando GitHub y linux.
+# holbertonschool-zero_day
+*este programa muestra diferentes mensajes en la pantalla.
 
-**Creado por Marcela Soler__
+**Creado por Marcela Soler_
